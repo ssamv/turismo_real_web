@@ -1,0 +1,6 @@
+{
+    "name": "vendor/turismoreal",
+    "require": {
+        "transbank/transbank-sdk": "^1.7"
+    }
+}
